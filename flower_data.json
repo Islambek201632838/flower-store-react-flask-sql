@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "name": "African Violet",
+        "price": 99.52,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 2,
+        "name": "Plant Stand",
+        "price": 21.93,
+        "size": "Large",
+        "category": "Succulents",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-08"
+    },
+    {
+        "id": 3,
+        "name": "Monstera Deliciosa",
+        "price": 72.92,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-18"
+    },
+    {
+        "id": 4,
+        "name": "Small Snake Plant",
+        "price": 83.25,
+        "size": "Small",
+        "category": "Gardening",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-22"
+    },
+    {
+        "id": 5,
+        "name": "Garden Gloves",
+        "price": 91.01,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-15"
+    },
+    {
+        "id": 6,
+        "name": "Monstera Deliciosa",
+        "price": 40.69,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-24"
+    },
+    {
+        "id": 7,
+        "name": "ZZ Plant",
+        "price": 20.35,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-22"
+    },
+    {
+        "id": 8,
+        "name": "Potting Mix",
+        "price": 86.64,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-07"
+    },
+    {
+        "id": 9,
+        "name": "Monstera Deliciosa",
+        "price": 46.05,
+        "size": "Small",
+        "category": "Big Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 10,
+        "name": "Fertilizer",
+        "price": 37.23,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 11,
+        "name": "Burro's Tail",
+        "price": 20.89,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-29"
+    },
+    {
+        "id": 12,
+        "name": "ZZ Plant",
+        "price": 73.24,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-09"
+    },
+    {
+        "id": 13,
+        "name": "Aloe Vera",
+        "price": 52.51,
+        "size": "Medium",
+        "category": "Small Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 14,
+        "name": "Watering Globe",
+        "price": 15.49,
+        "size": "Small",
+        "category": "House Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-25"
+    },
+    {
+        "id": 15,
+        "name": "Haworthia",
+        "price": 30.76,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-17"
+    },
+    {
+        "id": 16,
+        "name": "Haworthia",
+        "price": 59.71,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-29"
+    },
+    {
+        "id": 17,
+        "name": "Orchid",
+        "price": 83.05,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-20"
+    },
+    {
+        "id": 18,
+        "name": "Planter",
+        "price": 47.14,
+        "size": "Large",
+        "category": "Big Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-19"
+    },
+    {
+        "id": 19,
+        "name": "Bonsai Tree",
+        "price": 72.57,
+        "size": "Small",
+        "category": "Small Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-26"
+    },
+    {
+        "id": 20,
+        "name": "Kentia Palm",
+        "price": 34.3,
+        "size": "Small",
+        "category": "Gardening",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-10"
+    },
+    {
+        "id": 21,
+        "name": "Small Snake Plant",
+        "price": 82.48,
+        "size": "Large",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-19"
+    },
+    {
+        "id": 22,
+        "name": "Pothos",
+        "price": 9.25,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-23"
+    },
+    {
+        "id": 23,
+        "name": "Bonsai Tree",
+        "price": 80.4,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-22"
+    },
+    {
+        "id": 24,
+        "name": "Pothos",
+        "price": 99.64,
+        "size": "Large",
+        "category": "House Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-27"
+    },
+    {
+        "id": 25,
+        "name": "African Violet",
+        "price": 85.11,
+        "size": "Small",
+        "category": "Accessories",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-11"
+    },
+    {
+        "id": 26,
+        "name": "Hanging Basket",
+        "price": 78.64,
+        "size": "Small",
+        "category": "Gardening",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-08"
+    },
+    {
+        "id": 27,
+        "name": "String of Pearls",
+        "price": 6.97,
+        "size": "Medium",
+        "category": "Succulents",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-15"
+    },
+    {
+        "id": 28,
+        "name": "Bird of Paradise",
+        "price": 38.27,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-12"
+    },
+    {
+        "id": 29,
+        "name": "Garden Tools",
+        "price": 84.13,
+        "size": "Small",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-26"
+    },
+    {
+        "id": 30,
+        "name": "Kentia Palm",
+        "price": 57.11,
+        "size": "Medium",
+        "category": "House Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-07"
+    },
+    {
+        "id": 31,
+        "name": "Kentia Palm",
+        "price": 67.71,
+        "size": "Large",
+        "category": "Succulents",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-15"
+    },
+    {
+        "id": 32,
+        "name": "Peace Lily",
+        "price": 37.97,
+        "size": "Large",
+        "category": "Gardening",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-20"
+    },
+    {
+        "id": 33,
+        "name": "Plant Food",
+        "price": 52.5,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-12"
+    },
+    {
+        "id": 34,
+        "name": "Pothos",
+        "price": 28.75,
+        "size": "Medium",
+        "category": "Accessories",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-07"
+    },
+    {
+        "id": 35,
+        "name": "Succulent",
+        "price": 24.8,
+        "size": "Large",
+        "category": "House Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-30"
+    },
+    {
+        "id": 36,
+        "name": "Fertilizer",
+        "price": 63.37,
+        "size": "Medium",
+        "category": "Succulents",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-05"
+    },
+    {
+        "id": 37,
+        "name": "Areca Palm",
+        "price": 69.21,
+        "size": "Small",
+        "category": "Small Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-23"
+    },
+    {
+        "id": 38,
+        "name": "African Violet",
+        "price": 25.3,
+        "size": "Small",
+        "category": "Big Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-10"
+    },
+    {
+        "id": 39,
+        "name": "Garden Gloves",
+        "price": 93.56,
+        "size": "Small",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-01"
+    },
+    {
+        "id": 40,
+        "name": "Garden Tools",
+        "price": 30.47,
+        "size": "Small",
+        "category": "Small Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 41,
+        "name": "Fiddle-Leaf Fig",
+        "price": 72.29,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-06"
+    },
+    {
+        "id": 42,
+        "name": "Watering Globe",
+        "price": 12.47,
+        "size": "Small",
+        "category": "Big Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 43,
+        "name": "Plant Food",
+        "price": 40.66,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-20"
+    },
+    {
+        "id": 44,
+        "name": "Succulent",
+        "price": 34.41,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-02"
+    },
+    {
+        "id": 45,
+        "name": "Spider Plant",
+        "price": 17.41,
+        "size": "Small",
+        "category": "Gardening",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 46,
+        "name": "Small Snake Plant",
+        "price": 14.1,
+        "size": "Medium",
+        "category": "Small Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 47,
+        "name": "Plant Stand",
+        "price": 28.73,
+        "size": "Medium",
+        "category": "Potter Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-10"
+    },
+    {
+        "id": 48,
+        "name": "String of Pearls",
+        "price": 15.96,
+        "size": "Small",
+        "category": "Small Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-05"
+    },
+    {
+        "id": 49,
+        "name": "Bonsai Tree",
+        "price": 85.23,
+        "size": "Medium",
+        "category": "Gardening",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-19"
+    },
+    {
+        "id": 50,
+        "name": "Plant Food",
+        "price": 65.45,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-28"
+    },
+    {
+        "id": 51,
+        "name": "Cactus",
+        "price": 83.35,
+        "size": "Medium",
+        "category": "Accessories",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-23"
+    },
+    {
+        "id": 52,
+        "name": "Rubber Plant",
+        "price": 4.16,
+        "size": "Large",
+        "category": "Succulents",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-12"
+    },
+    {
+        "id": 53,
+        "name": "String of Pearls",
+        "price": 39.49,
+        "size": "Large",
+        "category": "Succulents",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-14"
+    },
+    {
+        "id": 54,
+        "name": "Fertilizer",
+        "price": 8.55,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-07"
+    },
+    {
+        "id": 55,
+        "name": "Potting Mix",
+        "price": 22.88,
+        "size": "Medium",
+        "category": "House Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-13"
+    },
+    {
+        "id": 56,
+        "name": "Orchid",
+        "price": 27.27,
+        "size": "Medium",
+        "category": "Small Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-11"
+    },
+    {
+        "id": 57,
+        "name": "Fertilizer",
+        "price": 59.83,
+        "size": "Large",
+        "category": "House Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-24"
+    },
+    {
+        "id": 58,
+        "name": "Spider Plant",
+        "price": 7.93,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-05"
+    },
+    {
+        "id": 59,
+        "name": "String of Pearls",
+        "price": 18.14,
+        "size": "Small",
+        "category": "Succulents",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-16"
+    },
+    {
+        "id": 60,
+        "name": "Hanging Basket",
+        "price": 51.45,
+        "size": "Medium",
+        "category": "Accessories",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-08"
+    },
+    {
+        "id": 61,
+        "name": "Bird of Paradise",
+        "price": 98.85,
+        "size": "Medium",
+        "category": "Potter Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-10"
+    },
+    {
+        "id": 62,
+        "name": "Bonsai Tree",
+        "price": 74.0,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-08"
+    },
+    {
+        "id": 63,
+        "name": "Plant Mister",
+        "price": 5.54,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-10"
+    },
+    {
+        "id": 64,
+        "name": "Bonsai Tree",
+        "price": 97.81,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-25"
+    },
+    {
+        "id": 65,
+        "name": "Kentia Palm",
+        "price": 20.91,
+        "size": "Medium",
+        "category": "Accessories",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-29"
+    },
+    {
+        "id": 66,
+        "name": "African Violet",
+        "price": 52.98,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-09"
+    },
+    {
+        "id": 67,
+        "name": "Garden Hose",
+        "price": 33.67,
+        "size": "Small",
+        "category": "Succulents",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-16"
+    },
+    {
+        "id": 68,
+        "name": "Spider Plant",
+        "price": 46.72,
+        "size": "Small",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-13"
+    },
+    {
+        "id": 69,
+        "name": "Spider Plant",
+        "price": 11.7,
+        "size": "Large",
+        "category": "House Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-10-08"
+    },
+    {
+        "id": 70,
+        "name": "Garden Gloves",
+        "price": 51.47,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-22"
+    },
+    {
+        "id": 71,
+        "name": "Haworthia",
+        "price": 7.5,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-29"
+    },
+    {
+        "id": 72,
+        "name": "Monstera Deliciosa",
+        "price": 38.31,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-21"
+    },
+    {
+        "id": 73,
+        "name": "Plant Mister",
+        "price": 27.63,
+        "size": "Large",
+        "category": "Succulents",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-28"
+    },
+    {
+        "id": 74,
+        "name": "Peace Lily",
+        "price": 4.28,
+        "size": "Medium",
+        "category": "House Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-16"
+    },
+    {
+        "id": 75,
+        "name": "Garden Tools",
+        "price": 35.34,
+        "size": "Medium",
+        "category": "House Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-24"
+    },
+    {
+        "id": 76,
+        "name": "Garden Hose",
+        "price": 38.31,
+        "size": "Small",
+        "category": "Gardening",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-11"
+    },
+    {
+        "id": 77,
+        "name": "String of Pearls",
+        "price": 76.9,
+        "size": "Small",
+        "category": "Accessories",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-08"
+    },
+    {
+        "id": 78,
+        "name": "Hanging Basket",
+        "price": 84.26,
+        "size": "Small",
+        "category": "Succulents",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-29"
+    },
+    {
+        "id": 79,
+        "name": "Kentia Palm",
+        "price": 37.84,
+        "size": "Small",
+        "category": "Small Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-17"
+    },
+    {
+        "id": 80,
+        "name": "African Violet",
+        "price": 90.03,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-05"
+    },
+    {
+        "id": 81,
+        "name": "Orchid",
+        "price": 7.0,
+        "size": "Small",
+        "category": "Succulents",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-10-08"
+    },
+    {
+        "id": 82,
+        "name": "ZZ Plant",
+        "price": 54.56,
+        "size": "Large",
+        "category": "Potter Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-08"
+    },
+    {
+        "id": 83,
+        "name": "Watering Can",
+        "price": 58.31,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-06"
+    },
+    {
+        "id": 84,
+        "name": "Bird of Paradise",
+        "price": 40.32,
+        "size": "Medium",
+        "category": "Accessories",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-01"
+    },
+    {
+        "id": 85,
+        "name": "Hanging Basket",
+        "price": 11.31,
+        "size": "Medium",
+        "category": "Gardening",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-07"
+    },
+    {
+        "id": 86,
+        "name": "African Violet",
+        "price": 36.08,
+        "size": "Medium",
+        "category": "Succulents",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-06"
+    },
+    {
+        "id": 87,
+        "name": "Air Plant",
+        "price": 52.67,
+        "size": "Medium",
+        "category": "Small Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-12"
+    },
+    {
+        "id": 88,
+        "name": "Haworthia",
+        "price": 36.6,
+        "size": "Small",
+        "category": "Gardening",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-16"
+    },
+    {
+        "id": 89,
+        "name": "Bird of Paradise",
+        "price": 80.07,
+        "size": "Medium",
+        "category": "Gardening",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-07"
+    },
+    {
+        "id": 90,
+        "name": "Haworthia",
+        "price": 78.06,
+        "size": "Large",
+        "category": "House Plants",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-12"
+    },
+    {
+        "id": 91,
+        "name": "Echeveria",
+        "price": 76.33,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-09-20"
+    },
+    {
+        "id": 92,
+        "name": "Bird of Paradise",
+        "price": 72.77,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-09"
+    },
+    {
+        "id": 93,
+        "name": "Bird of Paradise",
+        "price": 92.5,
+        "size": "Small",
+        "category": "Succulents",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-10-07"
+    },
+    {
+        "id": 94,
+        "name": "Air Plant",
+        "price": 76.42,
+        "size": "Large",
+        "category": "Accessories",
+        "discount": "0%",
+        "url": "",
+        "date": "2023-09-16"
+    },
+    {
+        "id": 95,
+        "name": "Watering Can",
+        "price": 96.34,
+        "size": "Small",
+        "category": "Potter Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-10-12"
+    },
+    {
+        "id": 96,
+        "name": "Small Snake Plant",
+        "price": 31.18,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 97,
+        "name": "Garden Hose",
+        "price": 49.73,
+        "size": "Large",
+        "category": "Big Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-09-08"
+    },
+    {
+        "id": 98,
+        "name": "Planter",
+        "price": 75.16,
+        "size": "Large",
+        "category": "Small Plants",
+        "discount": "10%",
+        "url": "",
+        "date": "2023-09-04"
+    },
+    {
+        "id": 99,
+        "name": "Kentia Palm",
+        "price": 20.66,
+        "size": "Medium",
+        "category": "Potter Plants",
+        "discount": "30%",
+        "url": "",
+        "date": "2023-10-11"
+    },
+    {
+        "id": 100,
+        "name": "Watering Can",
+        "price": 54.48,
+        "size": "Medium",
+        "category": "Big Plants",
+        "discount": "50%",
+        "url": "",
+        "date": "2023-10-09"
+    }
+]
