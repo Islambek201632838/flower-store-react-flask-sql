@@ -9,6 +9,17 @@ import footerPic1 from '../img/footer-pic1.png'
 import footerPic2 from '../img/footer-pic2.png'
 import footerPic3 from '../img/footer-pic3.png'
 
+const footerLinks = {
+  'My Account': ['My Account', 'Our Stores', 'Contact us', 'Career', 'Specials'],
+
+  'Help & Guide': ['Help Center', 'How to Buy', 'Shipping & Delivery', 
+                  'Product Policy', 'How to Return'],
+
+  'Categories': ['House Plants', 'Potter Plants', 'Seeds', 
+                 'Small Plants', 'Accessories']
+}
+
+
 const Footer = () => {
   return (
     <footer style={{width:'1200px', marginBottom:'13px'}}>
@@ -34,7 +45,7 @@ const Footer = () => {
           </div>
         <div className='ft-pt1-rec'></div>
         <div className='ft-pt1-section1'>
-          <img src={footerPic2} alt="" />
+          <img src={footerPic3} alt="" />
           <div className='ft-pt1-section1-h1'>
                 Watering Graden
             </div>
@@ -85,28 +96,25 @@ const Footer = () => {
       </div>
       <div className='footer_part3'>
         <div className='footer_part3-sc1'>
-          <div className='footer_part3-sc1-h1'>My Account</div> 
-          <div className='footer_part3-sc1-p'>My Account</div>
-          <div className='footer_part3-sc1-p'>Our stores</div>
-          <div className='footer_part3-sc1-p'>Contact us</div>
-          <div className='footer_part3-sc1-p'>Career</div>
-          <div className='footer_part3-sc1-p'>Specials</div>
+          <div className='footer_part3-sc1-h1'>My Account</div>
+          {footerLinks['My Account'].map(item => {
+            return (
+              <div className='footer_part3-sc1-p'>{item}</div>
+            )})} 
         </div>
         <div className='footer_part3-sc2'>
           <div className='footer_part3-sc2-h1'>Help & Guide</div> 
-          <div className='footer_part3-sc2-p'>Help Center</div>
-          <div className='footer_part3-sc2-p'>How to Buy</div>
-          <div className='footer_part3-sc2-p'>Shipping & Delivery</div>
-          <div className='footer_part3-sc2-p'>Product Policy</div>
-          <div className='footer_part3-sc2-p'>How to Return</div>          
+          {footerLinks['Help & Guide'].map(item => {
+            return (
+              <div className='footer_part3-sc1-p'>{item}</div>
+            )})}         
         </div>
         <div className='footer_part3-sc3'>
           <div className='footer_part3-sc3-h1'>Categories</div> 
-          <div className='footer_part3-sc3-p'>House Plants</div>
-          <div className='footer_part3-sc3-p'>Potter Plants</div>
-          <div className='footer_part3-sc3-p'>Seeds</div>
-          <div className='footer_part3-sc3-p'>Small Plants</div>
-          <div className='footer_part3-sc3-p'>Accessories</div>                                                  
+          {footerLinks['Categories'].map(item => {
+            return (
+              <div className='footer_part3-sc1-p'>{item}</div>
+            )})}                                                  
         </div>
         <div className='footer_part3-sc4' >
           <div className='footer_part3-sc4-h1-1' >Social Media</div>
