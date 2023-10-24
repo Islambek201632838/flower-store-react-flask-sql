@@ -1,13 +1,35 @@
 import { useState } from 'react';
-import { NavLink } from 'react-router-dom'; // Corrected import
+import { NavLink } from 'react-router-dom';
 import '../App.css';
 import Logo from '../img/Logo.png';
 import Vector from '../img/Vector.png';
-import Basket from '../img/Vector (1).png';
+import Basket from '../img/Vector (3).png';
 import Login from '../img/Login.png';
 
 function Header({searchTerm, setSearchTerm}) {
   const [page, setPage] = useState('Home');
+  const navData = [
+    {
+      'link': '/',
+      'page': 'Home',
+      'style': '329px'
+    },
+    {
+      'link': '/shop',
+      'page': 'Shop',
+      'style': '424px'
+    },
+    {
+      'link': '/plantcare',
+      'page': 'Plant Care',
+      'style': ' 512px'
+    },
+    {
+      'link': '/blogs',
+      'page': 'Blogs',
+      'style': '638px'
+    }
+  ];
 
   return (
     <div className="header">
@@ -21,50 +43,29 @@ function Header({searchTerm, setSearchTerm}) {
         }}
       />
       <ul style={{ listStyle: 'none', display: 'flex' }}>
-        <li style={{left: '329px'}}>
-          <NavLink
-            to="/"
-            className= {(page == 'Home') ? 'headerNavActive' : 'headerNav'}
-            onClick={() => setPage('Home')}
-          >
-            Home
-          </NavLink>
-        </li>
-        <li style={{left: '424px'}}>
-          <NavLink
-            to="/shop"
-            className= {(page == 'Shop') ? 'headerNavActive' : 'headerNav'}
-            onClick={() => setPage('Shop')}
-          >
-            Shop
-          </NavLink>
-        </li>
-        <li style={{left: '512px'}}> 
-          <NavLink
-            to="/plantcare"
-            className= {(page == 'Plant Care') ? 'headerNavActive' : 'headerNav'}
-            onClick={() => setPage('Plant Care')}
-          >
-            Plant Care
-          </NavLink>
-        </li>
-        <li style={{left: '638px'}}>
-          <NavLink
-            to="/blogs"
-            className= {(page == 'Blogs') ? 'headerNavActive' : 'headerNav'}
-            onClick={() => setPage('Blogs')}
-          >
-            Blogs
-          </NavLink>
-        </li>
+        {navData.map((item, index) => {
+          return (
+            <li style={{left: item.style}} key={index}>
+              <NavLink
+                to={item.link}
+                className={page === item.page ? 'headerNavActive' : 'headerNav'}
+                onClick={() => setPage(item.page)}
+              >
+                {item.page}
+              </NavLink>
+            </li>
+          );
+        })}
       </ul>
       <div style={{ display:'flex', alignItems:'center', position:'absolute', right:0}}>
         <div className='header-search-box'>
-          <input className='header-search' 
-                 type="text"
-                 value={searchTerm}
-                 onChange={(e)=> setSearchTerm(e.target.value)}
-                 placeholder="Search..."/>
+          <input
+            className='header-search'
+            type="text"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            placeholder="Search..."
+          />
           <div className='header-search-stick'></div>
           <img style={{ margin: '8px 10px 8px 0' }} src={Vector} alt="" />
         </div>

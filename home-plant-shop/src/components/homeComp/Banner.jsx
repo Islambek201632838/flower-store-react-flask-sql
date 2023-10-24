@@ -45,19 +45,23 @@ function Banner() {
     reset: true,
     duration:2000,
   });
+  
+  const BannerData = [
+    {'className': 'main-h2', 'value': bannerText[indexBanner].h2 },
+    {'className': 'main-h1', 'value': bannerText[indexBanner].h1},
+    {'className': 'main-p', 'value': bannerText[indexBanner].p}, 
+
+  ]
 
   return (
     <div className="wrapper-main">
       <div className="main">
-        <animated.div style={slideProps}>
-          <div className='main-h2'>{bannerText[indexBanner].h2}</div>
-        </animated.div>
-        <animated.div style={slideProps}>
-          <div className='main-h1'><b>{bannerText[indexBanner].h1}</b></div>
-        </animated.div>
-        <animated.div style={slideProps}>
-          <div className='main-p'>{bannerText[indexBanner].p}</div>
-        </animated.div>
+        {BannerData.map(item => {
+          return (
+            <animated.div style={slideProps}>
+            <div className={item['className']}>{item['value']}</div>
+          </animated.div>
+      )})}
         <animated.div style={slideProps}>
           <button>{bannerText[indexBanner].button}</button>
         </animated.div>
